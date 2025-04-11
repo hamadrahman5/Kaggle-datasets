@@ -1,5 +1,5 @@
 # Kaggle-datasets
- Dataset Description for Kaggle: Amazon Best Sellers Data
+ #Dataset Description for Kaggle: Amazon Best Sellers Data
 
 **📖 Overview
 This dataset contains real-time Amazon Best Sellers data across multiple countries and categories, specifically focusing on Software products. The data is collected via an API and includes details such as product titles, prices, star ratings, number of reviews, and rank changes.
@@ -21,3 +21,7 @@ python file contains:
 ✅ Pricing Strategy Optimization – Compare prices across markets and track fluctuations.
 ✅ Customer Sentiment Analysis – Analyze customer ratings and review trends.
 ✅ Competitor Research – Understand how products rank in different countries.
+
+
+#Global Cybersecurity Threats (2015-2024)
+DATA visualization using PowerBi of The Global Cybersecurity Threats Dataset (2015-2024) which contains extensive data on cyberattacks, malware types, targeted industries, and affected countries
